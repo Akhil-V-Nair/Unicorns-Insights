@@ -3,6 +3,10 @@ A static report that tells the story of Unicorns and the metrics that made them 
 
 link for browser view of the report -- https://app.powerbi.com/view?r=eyJrIjoiNzFhNDJmMzQtYjg1NC00ZGVhLWJmZjMtNzRkYWMwZWQ5YTJmIiwidCI6ImQwMjViNjgwLWVmNjAtNDc4Zi1hNmZjLTIyMGU3Yzc0ODAzMCJ9&pageName=ReportSectioncd7fffefbfb03371a2e1
 
+![Completed_Unicorn](https://user-images.githubusercontent.com/73117054/164988818-10d5c9af-cebc-40fc-9149-95d5a6cd0137.png)
+
+
+
 
 # Unicorns: Term coined by Aileen Lee to describe Organizations that reached a total Valuation of 1Billion Dollars.
 
